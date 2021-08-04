@@ -1,3 +1,3 @@
 # Neural-Network-small-projects
 
-Deeplearning specialization course material
+Deeplearning specialization taught by Andrew Ng and offred via Coursera course material
